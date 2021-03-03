@@ -11,11 +11,9 @@ iniconfig==1.1.1
 lxml==4.6.2
 namedlist==1.8
 packaging==20.9
-pluggy==0.13.1
 py==1.10.0
 pyparsing==2.4.7
 pytest==6.2.2
-pytest-allure-adaptor==1.7.10
 pytest-html==2.1.1
 pytest-metadata==1.11.0
 requests==2.25.1
