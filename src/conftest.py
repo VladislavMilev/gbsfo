@@ -16,6 +16,7 @@ from webdriver_manager.chrome import ChromeDriverManager  # Не люблю ст
 # driver: WebDriver = webdriver.Opera(executable_path=OperaDriverManager().install())
 # -----------------------------------------------------------
 
+
 @pytest.fixture(scope='function')  # Решил использовать драйвер 1 раз на тествовую функцию
 def driver_manager():
 
